@@ -26,7 +26,7 @@ Give the selected descriptive names to variable columns
 
 ### Files
 
-'CodeBook.md' contains information on the variables, data set, transformations and work that was done to tidy up the data
+'CodeBook' contains information on the variables, data set, transformations and work that was done to tidy up the data
 
 'run_analysis.R' is the code for the R script used to complete the project goals
 
