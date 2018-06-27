@@ -10,7 +10,7 @@ One of the most exciting areas in all of data science right now is wearable comp
 *The source data for this project can be found here.*(https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 
-###Project Goals
+### Project Goals
 The project goal was to create an R script called run_analysis.R that does the following.
 
 1. Merges the training and the test sets to create one data set.
@@ -24,7 +24,8 @@ Give the selected descriptive names to variable columns
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-###Files
+### Files
+
 'CodeBook.md' contains information on the variables, data set, transformations and work that was done to tidy up the data
 
 'run_analysis.R' is the code for the R script used to complete the project goals
